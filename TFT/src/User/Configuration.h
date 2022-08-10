@@ -124,7 +124,7 @@
  *
  *   Options: [disable: 0, enable: 1]
  */
-#define STATUS_SCREEN 1  // Default: 1
+#define STATUS_SCREEN 0  // Default: 1
 
 /**
  * Touch Mode Colors
@@ -1274,6 +1274,9 @@
  * of actual printer axis Update the icons from alternate icon folder.
  */
 #define ALTERNATIVE_MOVE_MENU  // Default: uncommented (enabled)
+
+// Enable CNC Menu mutually exclusive to UNIFIED_MENU
+#define CNC_MENU
 
 /**
  * Friendly Z Offset Language
