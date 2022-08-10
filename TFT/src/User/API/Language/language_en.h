@@ -3,7 +3,8 @@
 
     //CUSTOM
     #define STRING_SPINDLE               "Spindle"
-
+    //#define STRING_SPINDLE               "Spindle"
+    
     // config.ini Parameter Settings - Screen Settings and Feature Settings
     #define STRING_LANGUAGE               "English"
     #define STRING_EMULATED_M600          "Emulated M600"

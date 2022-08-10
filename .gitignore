@@ -121,3 +121,4 @@ cmake-build-*
 .settings
 .classpath
 /.vs/slnx.sqlite
+/.vs/*
