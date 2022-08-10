@@ -11,7 +11,7 @@ const MENUITEMS homeItems = {
         {ICON_HOME, LABEL_XY},
         {ICON_Z_HOME, LABEL_Z},
         {ICON_NULL, LABEL_NULL},
-        {ICON_PROBE_OFFSET, LABEL_PROBE_Z},
+        {ICON_PROBE_Z, LABEL_PROBE_Z},
         {ICON_ZERO_X, LABEL_ZERO_X},
         {ICON_ZERO_Y, LABEL_ZERO_Y},
         {ICON_ZERO_Z, LABEL_ZERO_Z},
