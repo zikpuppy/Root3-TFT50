@@ -8,6 +8,9 @@ extern "C" {
 #include <stdbool.h>
 #include "variants.h"
 
+// Custom Key word
+#define LANG_KEY_SPINDLE                      "label_spindle:"
+
 // config.ini Parameter Settings - Screen Settings and Feature Settings
 #define LANG_KEY_LANGUAGE                     "label_language:"
 #define LANG_KEY_EMULATED_M600                "label_emulated_m600:"

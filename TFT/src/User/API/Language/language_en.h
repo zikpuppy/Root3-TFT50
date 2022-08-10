@@ -1,6 +1,9 @@
 #ifndef _LANGUAGE_EN_H_
 #define _LANGUAGE_EN_H_
 
+    //CUSTOM
+    #define STRING_SPINDLE               "Spindle"
+
     // config.ini Parameter Settings - Screen Settings and Feature Settings
     #define STRING_LANGUAGE               "English"
     #define STRING_EMULATED_M600          "Emulated M600"
