@@ -3,8 +3,12 @@
 
     //CUSTOM
     #define STRING_SPINDLE               "Spindle"
-    //#define STRING_SPINDLE               "Spindle"
-    
+    #define STRING_XY                    "XY"
+    #define STRING_PROBE_Z               "Probe Z"
+    #define STRING_ZERO_X                "Zero X"
+    #define STRING_ZERO_Y                "Zero Y"
+    #define STRING_ZERO_Z                "Zero Z"
+
     // config.ini Parameter Settings - Screen Settings and Feature Settings
     #define STRING_LANGUAGE               "English"
     #define STRING_EMULATED_M600          "Emulated M600"

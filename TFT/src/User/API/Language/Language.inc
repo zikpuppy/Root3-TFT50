@@ -379,5 +379,13 @@ X_WORD (MESH_VALID)
 X_WORD (CONNECT_PROBE)
 X_WORD (DISCONNECT_PROBE)
 X_WORD (CALIBRATION)
+
+//Custom keywords
 X_WORD (SPINDLE)
+X_WORD (XY)
+X_WORD (PROBE_Z)
+X_WORD (ZERO_X)
+X_WORD (ZERO_Y)
+X_WORD (ZERO_Z)
+
 // After changing/adding/removing a word, change the LANGUAGE_FLASH_SIGN in Settings.h
